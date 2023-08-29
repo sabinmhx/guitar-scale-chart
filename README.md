@@ -38,3 +38,6 @@ It is built up of python3 and uses tkinter.
  * 11 chord
  * Maj11 chord
  * min11 chords
+
+## Output
+![Guitar Scale Chart](chartoutput.png)
